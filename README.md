@@ -7,3 +7,5 @@ Dataset used can be found here:
 https://www.kaggle.com/zynicide/wine-reviews
 
 file used is winemag-data_first150k.csv
+
+THIS IS INCOMPLETE. WILL BE UPDATED SOON.
